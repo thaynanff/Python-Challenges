@@ -3,11 +3,11 @@
 
 Completed katas:
 
-#### 5yu:
+### 5kyu:
 - Human Readable Time
 - String incrementer
 
-#### 6kyu:
+### 6kyu:
 - Sum of Digits / Digital Root
 - Replace With Alphabet Position
 - Array.diff
@@ -20,7 +20,7 @@ Completed katas:
 - Word a10n (abbreviation)
 - Are they the "same"?
 
-#### 7kyu:
+### 7kyu:
 - Mumbling
 - Binary Addition
 - You're a square!
