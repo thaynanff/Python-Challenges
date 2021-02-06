@@ -19,6 +19,8 @@ Completed katas:
 - Unique In Order
 - Word a10n (abbreviation)
 - Are they the "same"?
+- Multiplication Tables
+- Take a Ten Minute Walk
 
 ### 7kyu:
 - Mumbling
