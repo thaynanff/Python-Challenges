@@ -27,5 +27,6 @@ Completed katas:
 - Binary Addition
 - You're a square!
 - Two to One
+- List Filtering
 
 My Codewars profile: https://www.codewars.com/users/thaynanff
