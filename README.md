@@ -21,6 +21,8 @@ Completed katas:
 - Are they the "same"?
 - Multiplication Tables
 - Take a Ten Minute Walk
+- Find the missing letter
+- Help the bookseller!
 
 ### 7kyu:
 - Mumbling
