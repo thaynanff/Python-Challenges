@@ -23,6 +23,10 @@ Completed katas:
 - Take a Ten Minute Walk
 - Find the missing letter
 - Help the bookseller!
+- IPv4 to int32
+- The Vowel Code
+- Mexican Wave
+- Duplicate Encoder
 
 ### 7kyu:
 - Mumbling
