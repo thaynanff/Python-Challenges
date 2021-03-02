@@ -27,6 +27,10 @@ Completed katas:
 - The Vowel Code
 - Mexican Wave
 - Duplicate Encoder
+- Rainfall
+- Count the smiley faces!
+- IQ Test
+
 
 ### 7kyu:
 - Mumbling
