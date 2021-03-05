@@ -30,6 +30,7 @@ Completed katas:
 - Rainfall
 - Count the smiley faces!
 - IQ Test
+- Reverse every other word in the string
 
 
 ### 7kyu:
