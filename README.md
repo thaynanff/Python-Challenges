@@ -28,7 +28,7 @@ Completed katas:
 - Mexican Wave
 - Duplicate Encoder
 - Rainfall
-- Count the smiley faces!
+- Count the smiley faces! (2 versions)
 - IQ Test
 - Reverse every other word in the string
 
