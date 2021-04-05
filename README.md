@@ -8,6 +8,7 @@ Completed katas:
 - String incrementer
 - Phone Directory
 - Extract the domain name from a URL
+- Play with two Strings
 
 ### 6kyu:
 - Sum of Digits / Digital Root
