@@ -7,6 +7,7 @@ Completed katas:
 - Human Readable Time
 - String incrementer
 - Phone Directory
+- Extract the domain name from a URL
 
 ### 6kyu:
 - Sum of Digits / Digital Root
