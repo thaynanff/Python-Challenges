@@ -6,6 +6,7 @@ Completed katas:
 ### 5kyu:
 - Human Readable Time
 - String incrementer
+- Phone Directory
 
 ### 6kyu:
 - Sum of Digits / Digital Root
