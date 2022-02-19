@@ -42,5 +42,10 @@ Completed katas:
 - You're a square!
 - Two to One
 - List Filtering
+- Jaden Casing Strings
+
+### 8kyu:
+- Convert a Number to a String!
+- Square(n) Sum
 
 My Codewars profile: https://www.codewars.com/users/thaynanff
