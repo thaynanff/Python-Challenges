@@ -43,6 +43,7 @@ Completed katas:
 - Two to One
 - List Filtering
 - Jaden Casing Strings
+- Descending Order
 
 ### 8kyu:
 - Convert a Number to a String!
