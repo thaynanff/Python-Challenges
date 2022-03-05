@@ -34,6 +34,7 @@ Completed katas:
 - Count the smiley faces! (2 versions)
 - IQ Test
 - Reverse every other word in the string
+- Detect Pangram
 
 
 ### 7kyu:
