@@ -45,6 +45,7 @@ Completed katas:
 - List Filtering
 - Jaden Casing Strings
 - Descending Order
+- Categorize New Member
 
 ### 8kyu:
 - Convert a Number to a String!
