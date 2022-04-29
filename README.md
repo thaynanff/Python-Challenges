@@ -46,9 +46,13 @@ Completed katas:
 - Jaden Casing Strings
 - Descending Order
 - Categorize New Member
+- Reverse words
 
 ### 8kyu:
 - Convert a Number to a String!
 - Square(n) Sum
+- Function 1 - hello world
+- Reversed Strings
+- Convert a String to a Number!
 
 My Codewars profile: https://www.codewars.com/users/thaynanff
