@@ -35,6 +35,7 @@ Completed katas:
 - IQ Test
 - Reverse every other word in the string
 - Detect Pangram
+- Playing with digits
 
 
 ### 7kyu:
@@ -54,5 +55,6 @@ Completed katas:
 - Function 1 - hello world
 - Reversed Strings
 - Convert a String to a Number!
+- Beginner - Lost Without a Map
 
 My Codewars profile: https://www.codewars.com/users/thaynanff
