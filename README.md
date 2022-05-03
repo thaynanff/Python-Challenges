@@ -49,6 +49,7 @@ Completed katas:
 - Descending Order
 - Categorize New Member
 - Reverse words
+- Exes and Ohs
 
 ### 8kyu:
 - Convert a Number to a String!
