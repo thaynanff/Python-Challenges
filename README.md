@@ -36,6 +36,7 @@ Completed katas:
 - Reverse every other word in the string
 - Detect Pangram
 - Playing with digits
+- Who likes it?
 
 
 ### 7kyu:
