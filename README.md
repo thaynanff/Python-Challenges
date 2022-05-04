@@ -50,6 +50,8 @@ Completed katas:
 - Categorize New Member
 - Reverse words
 - Exes and Ohs
+- Shortest Word
+- Remove the minimum
 
 ### 8kyu:
 - Convert a Number to a String!
