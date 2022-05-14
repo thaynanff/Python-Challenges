@@ -52,6 +52,7 @@ Completed katas:
 - Exes and Ohs
 - Shortest Word
 - Remove the minimum
+- Sort Numbers
 
 ### 8kyu:
 - Convert a Number to a String!
