@@ -54,6 +54,7 @@ Completed katas:
 - Remove the minimum
 - Sort Numbers
 - Bingo ( Or Not )
+- Find the vowels
 
 ### 8kyu:
 - Convert a Number to a String!
