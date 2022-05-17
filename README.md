@@ -53,6 +53,7 @@ Completed katas:
 - Shortest Word
 - Remove the minimum
 - Sort Numbers
+- Bingo ( Or Not )
 
 ### 8kyu:
 - Convert a Number to a String!
