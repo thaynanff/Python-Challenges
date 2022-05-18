@@ -55,6 +55,7 @@ Completed katas:
 - Sort Numbers
 - Bingo ( Or Not )
 - Find the vowels
+- Credit Card Mask
 
 ### 8kyu:
 - Convert a Number to a String!
