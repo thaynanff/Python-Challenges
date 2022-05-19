@@ -37,6 +37,7 @@ Completed katas:
 - Detect Pangram
 - Playing with digits
 - Who likes it?
+- Smallest Permutation
 
 
 ### 7kyu:
