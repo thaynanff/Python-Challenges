@@ -1,14 +1,15 @@
-# Codewars Katas
- My kata solutions from Codewars in Python
+# Python Coding Challenges
+My Python coding challenges solutions from my [Codewars](https://www.codewars.com/users/thaynanff/completed_solutions), [HackerRank](https://www.hackerrank.com/thaynanff?hr_r=1) profiles and other sources
 
-Completed katas:
+
+## Codewars Completed Katas:
 
 ### 5kyu:
-- Human Readable Time
-- String incrementer
-- Phone Directory
-- Extract the domain name from a URL
-- Play with two Strings
+- [Human Readable Time](https://github.com/thaynanff/Python-Challenges/blob/main/Codewars/5kyu/Human%20Readable%20Time.py)
+- [String incrementer](https://github.com/thaynanff/Python-Challenges/blob/main/Codewars/5kyu/String%20incrementer.py)
+- [Phone Directory](https://github.com/thaynanff/Python-Challenges/blob/main/Codewars/5kyu/Phone%20Directory.py)
+- [Extract the domain name from a URL](https://github.com/thaynanff/Python-Challenges/blob/main/Codewars/5kyu/Extract%20the%20domain%20name%20from%20a%20URL.py)
+- [Play with two Strings](https://github.com/thaynanff/Python-Challenges/blob/main/Codewars/5kyu/Play%20with%20two%20Strings.py)
 
 ### 6kyu:
 - Sum of Digits / Digital Root
@@ -65,5 +66,3 @@ Completed katas:
 - Reversed Strings
 - Convert a String to a Number!
 - Beginner - Lost Without a Map
-
-My Codewars profile: https://www.codewars.com/users/thaynanff
