@@ -10,7 +10,8 @@ a mesma presença que tem hoje nestes aparelhos. Nele cada uma das teclas numér
 uma letra ou sinal do alfabeto.
 
 A letra 'c', por exemplo, é a terceira letra contida na tecla 2. Sendo assim, em uma mensagem de texto, para 
-digitar o letra ‘c’, você precisaria pressionar a tecla 2 por 3 vezes (em um intervalo de tempo curto). Para letras maiúsculas, você precisava pressionar a tecla # e, em seguida, digitar a letra desejada.
+digitar o letra ‘c’, você precisaria pressionar a tecla 2 por 3 vezes (em um intervalo de tempo curto). Para letras maiúsculas, você precisava pressionar 
+a tecla # e, em seguida, digitar a letra desejada.
 
 Os símbolos, por sua vez, estão presentes na tecla _; portanto, para digitar os símbolos '_', '.', '!' e '?', 
 você precisaria pressionar a tecla * por 1, 2, 3 ou 4 vezes, respectivamente. Por fim, o espaço pode ser digitado 
